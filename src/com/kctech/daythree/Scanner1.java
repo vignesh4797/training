@@ -1,25 +1,20 @@
 package com.kctech.daythree;
+import java.util.*;
 
-public class Scannerv {
-
+class Scanner1 {
+  
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		Scannerv myObj = new Scannerv (System.in);
-
-	    System.out.println("Enter name, age and salary:");
-
-	    // String input
-	    String name = myObj.nextLine();
-
-	    // Numerical input
-	    int age = myObj.nextInt();
-	    double salary = myObj.nextDouble();
-
-	    // Output input by user
-	    System.out.println("Name: " + name); 
-	    System.out.println("Age: " + age); 
-	    System.out.println("Salary: " + salary);
-		
-	}
-
+    
+		Scanner myObj = new Scanner(System.in);
+    
+		String userName;
+    
+   
+    
+		System.out.println("Enter username"); 
+    
+		userName = myObj.nextLine();   
+       
+    System.out.println("Username is: " + userName);        
+  }
 }
