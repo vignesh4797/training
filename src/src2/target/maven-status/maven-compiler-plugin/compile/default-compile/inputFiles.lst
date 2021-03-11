@@ -1,0 +1,10 @@
+/Users/admin/eclipse-workspace/spring-city1/src/main/java/guru/springframework/services/ProductService.java
+/Users/admin/eclipse-workspace/spring-city1/src/main/java/guru/springframework/commands/ProductForm.java
+/Users/admin/eclipse-workspace/spring-city1/src/main/java/guru/springframework/converters/ProductFormToProduct.java
+/Users/admin/eclipse-workspace/spring-city1/src/main/java/guru/springframework/services/ProductServiceImpl.java
+/Users/admin/eclipse-workspace/spring-city1/src/main/java/guru/springframework/converters/ProductToProductForm.java
+/Users/admin/eclipse-workspace/spring-city1/src/main/java/guru/springframework/repositories/ProductRepository.java
+/Users/admin/eclipse-workspace/spring-city1/src/main/java/guru/springframework/controllers/ProductController.java
+/Users/admin/eclipse-workspace/spring-city1/src/main/java/guru/springframework/domain/Product.java
+/Users/admin/eclipse-workspace/spring-city1/src/main/java/guru/springframework/SpringBootMySqlApplication.java
+/Users/admin/eclipse-workspace/spring-city1/src/main/java/guru/springframework/controllers/ProductJController.java
